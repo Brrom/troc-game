@@ -1,0 +1,8 @@
+C:\Git-udev\troc-game\server\domain\bin\Debug\netstandard2.1\troc-game.domain.deps.json
+C:\Git-udev\troc-game\server\domain\bin\Debug\netstandard2.1\troc-game.domain.dll
+C:\Git-udev\troc-game\server\domain\bin\Debug\netstandard2.1\troc-game.domain.pdb
+C:\Git-udev\troc-game\server\domain\obj\Debug\netstandard2.1\troc-game.domain.csprojAssemblyReference.cache
+C:\Git-udev\troc-game\server\domain\obj\Debug\netstandard2.1\troc-game.domain.AssemblyInfoInputs.cache
+C:\Git-udev\troc-game\server\domain\obj\Debug\netstandard2.1\troc-game.domain.AssemblyInfo.cs
+C:\Git-udev\troc-game\server\domain\obj\Debug\netstandard2.1\troc-game.domain.dll
+C:\Git-udev\troc-game\server\domain\obj\Debug\netstandard2.1\troc-game.domain.pdb

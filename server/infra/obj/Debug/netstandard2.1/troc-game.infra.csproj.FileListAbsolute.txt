@@ -1,0 +1,13 @@
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.infra.deps.json
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.infra.dll
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.infra.pdb
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.domain.dll
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.shared.dll
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.domain.pdb
+C:\Git-udev\troc-game\server\infra\bin\Debug\netstandard2.1\troc-game.shared.pdb
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.csprojAssemblyReference.cache
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.AssemblyInfoInputs.cache
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.AssemblyInfo.cs
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.csproj.CopyComplete
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.dll
+C:\Git-udev\troc-game\server\infra\obj\Debug\netstandard2.1\troc-game.infra.pdb
