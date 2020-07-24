@@ -1,0 +1,25 @@
+<div>
+  <ng-sidebar-container class="min-vh-100">
+    <ng-sidebar [(opened)]="_opened" mode="push">
+      <div class="h-100" style="background-color: rgb(205, 248, 248);">
+        <p class="pt-3"><img width="300" alt="Troc Games Logo" src="assets/images/Logo.png"></p>
+        <br>
+        <div class="text-center font-weight-bold pt-3">
+          <p>Accueil</p>
+          <br>
+          <p>Recherche</p>
+          <br>
+          <p>Inscription</p>
+          <br>
+          <p>Troc de jeux</p>
+        </div>
+      </div>
+    </ng-sidebar>
+
+    <!-- Page content -->
+    <div ng-sidebar-content>
+      <router-outlet></router-outlet>
+    </div>
+
+  </ng-sidebar-container>    
+</div>
